@@ -43,3 +43,10 @@ GenAI-Powered Heritage Branding app for promoting traditional clay artisan produ
 ---
 
 ## 📸 App Screenshots
+
+- Output of Kumbara-kala.jpeg
+- Claypot of Kumbara-kala.jpeg
+- Output.jpeg
+- Output of project.jpeg
+
+
